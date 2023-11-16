@@ -13,6 +13,10 @@ BASE_API = "http://127.0.0.1:5000/api"
 
 try:
     from config_prod import *
+except ImportError:
+    pass
+
+try:
     from config_dev import *
 except ImportError:
     pass
