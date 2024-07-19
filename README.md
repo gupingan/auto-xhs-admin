@@ -1,4 +1,6 @@
-# AutoXHS 管理终端
+## AutoXHS 管理终端
+
+> 该端仅为作者练手所开发，如需更好的红薯服务，请转至新的仓库[烤红薯开源版](https://github.com/gupingan/khs-pyside6)
 
 ## 打包方式
 
